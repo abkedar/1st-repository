@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+Ans:	When git init is launch we create a new git repository where can link our project to git and handle it,
+And even launch it whether it be any nay programming language. and we also need to know how many file and what 
+file are there, it can be general file and even secret file.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans:	When ever init is done in git its done of any file, it is done in resporitoy using "git init".
+After the initialised is done of file in git file is to be add or creat so that is done in directory initially 
+it is done using "git add" command in git, and to know the status of the directory we use "status" which show us 
+what are the file which we have updated recently and make new or changes in file with time and date.
