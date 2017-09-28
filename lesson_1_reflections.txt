@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+Ans: well it dose show the exat pin point where the changes were made but it shows that which part of the 
+program was change and then we have to search the comapare file and see to it if any thing is wrong
+    
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+Ans if i run the new changes made in program and if that show error or it that logic to complete task is not proper 
+i can see on which day and time i had made any change in order to change it make new logic or correct it. 
+It also show how much productive is  my routine going on. 
+ 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+Ans:	we can't directly jugged if we it just right or wrong, the only we say what will be proper choice, 
+Manually storing in commit mean we can add or storing our new updates when ever we want and not to store 
+unnessary update from time to time automatically, 
+Automatically storing mean there no to check or add our update mannualy we only make or add updates the version will our updates,
+we will need only to see that if there is any unnessary changes or updates.
+    
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+Ans:	Git was basically design for programming only, it dose'nt make difference which programming language we use
+so we can make difference in multiples files, while other files like googles Docs was design for only document and 
+if we save all file in one it will become little bit hard to make difference
+    
+How can you use the commands git log and git diff to view the history of files?
+Ans:	git log we can see how many time and when we have updated the software using git using resporitory with time and date.
+	and by using "git diff" command we can see how many line we have deleted and added in the reposritory. 
+
+
+How might using version control make you more confident to make changes that
+could break something?
+Ans:	by using git version control i can see when and why i have changes in my application and project,
+so when i pass command to the git 'git checkout' and i see when i hav make changes but it can't correct it. 
+we have to pass another command 'git log ' by whcih we can see exact detail when make changes and it will 
+also mention it what tyoe of coments, and soo by seeing it we can make out what can be error. 
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Ans: Well since i have work space setup for my work, I want to use git for opening up text editor Sublime for my project 
+starting and completing and executing also.
